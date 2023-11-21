@@ -20,14 +20,14 @@ The loan_status column was used for the y variable, the labels. The value option
   * Balanced Accuracy Score = 95%
   * Precision & Recall of "0 - Healthy" and "1 - High Risk"
 
-![report1](./Output/classification_report_1.png)
+![report1](/Output/classification_report_1.png)
 
 
 * Machine Learning Model 2 - Logistic Regression Model using RandomOverSampler:
   * Balanced Accuracy Score = 99.5%
   * Precision & Recall of "0 - Healthy" and "1 - High Risk"
 
-![report2](./Output/classification_report_2.png)
+![report2](/Output/classification_report_2.png)
 
 
 ## Summary
